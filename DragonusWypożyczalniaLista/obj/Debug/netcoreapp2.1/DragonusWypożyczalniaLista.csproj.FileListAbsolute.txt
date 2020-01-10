@@ -1,0 +1,11 @@
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\bin\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.deps.json
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\bin\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.runtimeconfig.json
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\bin\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.runtimeconfig.dev.json
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\bin\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.dll
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\bin\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.pdb
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\obj\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.csprojResolveAssemblyReference.cache
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\obj\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.csproj.CoreCompileInputs.cache
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\obj\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.AssemblyInfoInputs.cache
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\obj\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.AssemblyInfo.cs
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\obj\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.dll
+C:\Users\biuro\source\repos\DragonusWypożyczalniaLista\DragonusWypożyczalniaLista\obj\Debug\netcoreapp2.1\DragonusWypożyczalniaLista.pdb
